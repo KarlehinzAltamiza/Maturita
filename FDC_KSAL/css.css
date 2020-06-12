@@ -1,0 +1,59 @@
+.accedi{
+    background-image: url("principale.jpg");
+    font-size: 100%;
+    background-color: black;
+    /*background-position: center;
+    background-size: cover;   /* ti fa ridimensionare l'immagine*/
+    background-repeat: repeat;    /* non ti fa ripetere l'immagine */
+    color:white;
+}
+.background{
+    background-image: url("sfondo.jpg");
+    font-size: 100%;
+    background-color: black;
+    /*background-position: center;
+    background-size: cover;   /* ti fa ridimensionare l'immagine*/
+    background-repeat: repeat;    /* non ti fa ripetere l'immagine */
+    color:white;
+}
+
+.background2{
+    background-image: url("sfondo2.jpg");
+    font-size: 100%;
+    background-color: black;
+    /*background-position: center;
+    background-size: cover;   /* ti fa ridimensionare l'immagine*/
+    background-repeat: repeat;    /* non ti fa ripetere l'immagine */
+    color:white;
+}
+#principale{
+    background-color: black;
+    border: 2px;
+    padding: 15px;
+    text-align: center;      
+    margin: 150px auto;                  /* AUTO serve per centrare il div nella pagina' */
+    width: 375px;
+}
+
+.button {
+  background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#center{
+    text-align: center;
+}
+
+h1{
+    color:red;
+}
